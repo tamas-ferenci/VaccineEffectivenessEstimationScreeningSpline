@@ -14,6 +14,14 @@ theme_set(theme_bw())
 set.seed(1)
 ```
 
+## Magyar olvasóknak
+
+A spline regresszióhoz segédanyagként elérhető a [magyar nyelvű jegyzetem](https://tamas-ferenci.github.io/) a témában.
+
+## Manuscript
+
+The preprint is available at [https://www.medrxiv.org/content/10.1101/2022.02.18.22271179v1](https://www.medrxiv.org/content/10.1101/2022.02.18.22271179v1).
+
 ## Overview
 
 As already hinted in the original publication of Farrington in 1993 (C P Farrington. Estimation of vaccine effectiveness using the screening method. Int J Epidemiol. 1993 Aug;22(4):742-6. doi: 10.1093/ije/22.4.742, https://academic.oup.com/ije/article-abstract/22/4/742/664122), vaccine effectiveness (VE) estimation with the screening method can be cast in the framework of logistic regression.

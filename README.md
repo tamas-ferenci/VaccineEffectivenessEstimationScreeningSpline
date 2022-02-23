@@ -3,6 +3,16 @@ upgraded with splines
 ================
 Tamás Ferenci
 
+## Magyar olvasóknak
+
+A spline regresszióhoz segédanyagként elérhető a [magyar nyelvű
+jegyzetem](https://tamas-ferenci.github.io/) a témában.
+
+## Manuscript
+
+The preprint is available at
+<https://www.medrxiv.org/content/10.1101/2022.02.18.22271179v1>.
+
 ## Overview
 
 As already hinted in the original publication of Farrington in 1993 (C P
